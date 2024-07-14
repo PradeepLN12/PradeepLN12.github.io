@@ -1,0 +1,4 @@
+baseURL = 'https://PradeepLN12.github.io/'
+languageCode = 'en-us'
+title = 'My Pradeep Site'
+theme = 'ananke'
