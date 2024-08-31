@@ -1,18 +1,46 @@
 ---
 layout: post
-title: Pardeep Flake it till you make it
-subtitle: Excerpt from Soulshaping by Jeff Brown
+title:  Theory of Intelligence
+subtitle: Robert Sternberg's Triarchic Theory of Intelligence 
 cover-img: /assets/img/path.jpg
 thumbnail-img: /assets/img/thumb.png
 share-img: /assets/img/path.jpg
 tags: [books, test]
-author: Sharon Smith and Barry Simpson
+author: Pradeep L N
 ---
 
-Under what circumstances should we step off a path? When is it essential that we finish what we start? If I bought a bag of peanuts and had an allergic reaction, no one would fault me if I threw it out. If I ended a relationship with a woman who hit me, no one would say that I had a commitment problem. But if I walk away from a seemingly secure route because my soul has other ideas, I am a flake?
+Robert Sternberg's Triarchic Theory of Intelligence posits that intelligence is a multifaceted construct composed of three distinct components:
 
-The truth is that no one else can definitively know the path we are here to walk. It’s tempting to listen—many of us long for the omnipotent other—but unless they are genuine psychic intuitives, they can’t know. All others can know is their own truth, and if they’ve actually done the work to excavate it, they will have the good sense to know that they cannot genuinely know anyone else’s. Only soul knows the path it is here to walk. Since you are the only one living in your temple, only you can know its scriptures and interpretive structure.
+1. Analytical Intelligence
+Component-based intelligence: This aspect of intelligence involves the ability to analyze, evaluate, and judge information. It's often associated with academic skills and problem-solving abilities.
+Examples:
+Solving puzzles or riddles
+Critically analyzing a text or argument
+Performing well on standardized tests
 
-At the heart of the struggle are two very different ideas of success—survival-driven and soul-driven. For survivalists, success is security, pragmatism, power over others. Success is the absence of material suffering, the nourishing of the soul be damned. It is an odd and ironic thing that most of the material power in our world often resides in the hands of younger souls. Still working in the egoic and material realms, they love the sensations of power and focus most of their energy on accumulation. Older souls tend not to be as materially driven. They have already played the worldly game in previous lives and they search for more subtle shades of meaning in this one—authentication rather than accumulation. They are often ignored by the culture at large, although they really are the truest warriors.
+2. Creative Intelligence
+Experiential intelligence: This component focuses on the ability to generate novel ideas, think creatively, and adapt to new situations. It's often linked to innovation and problem-solving.
+Examples:
+Developing new inventions or products
+Writing a creative story or poem
+Coming up with unique solutions to problems
 
-A soulful notion of success rests on the actualization of our innate image. Success is simply the completion of a soul step, however unsightly it may be. We have finished what we started when the lesson is learned. What a fear-based culture calls a wonderful opportunity may be fruitless and misguided for the soul. Staying in a passionless relationship may satisfy our need for comfort, but it may stifle the soul. Becoming a famous lawyer is only worthwhile if the soul demands it. It is an essential failure if you are called to be a monastic this time around. If you need to explore and abandon ten careers in order to stretch your soul toward its innate image, then so be it. Flake it till you make it.
+3. Practical Intelligence
+Contextual intelligence: This aspect involves the ability to apply knowledge and skills to real-world situations. It's often associated with common sense and social intelligence.
+
+Examples:
+Adapting to different social situations
+Managing tasks and time effectively
+Making sound decisions in everyday life
+
+Key Points:
+
+Interdependence: While these three components are distinct, they often work together to achieve intelligent behavior.
+Success: Sternberg argues that success in life is not solely determined by analytical intelligence, but also by creative and practical intelligence.
+Balanced Development: He emphasizes the importance of developing all three components for a well-rounded intelligence.
+Implications:
+
+Education: The Triarchic Theory suggests that education should focus on cultivating all three types of intelligence, not just analytical skills.
+Assessment: Intelligence assessments should include measures of creative and practical intelligence, in addition to traditional IQ tests.
+Personal Development: Individuals can enhance their intelligence by developing their creative and practical abilities, in addition to their analytical skills.
+By understanding the Triarchic Theory of Intelligence, we can appreciate the complexity of human intelligence and recognize the importance of developing a well-rounded set of cognitive abilities.
